@@ -1,67 +1,58 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Indra Setya Permana",
+    "username": "Indrasetyapermana",
+    "headline": "Librarian",
+    "affiliation": "Muhammadiyah University of Sinjai",
+    "location": "Bone, Indonesia",
+    "status": "Lifelong Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I create fun things, often related to libraries and digital literacy.",
+      "I create things that combine effectiveness with fun. Things that make life easier in various fields, especially in libraries."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Library",
+    "direction": "Library Management System",
+    "themes": "Effective / Convenient / Fun",
+    "narrative": "I am interested in systems that simplify library management and digital literacy."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Library",
+      "description": "library automation, library applications, and the use of tools."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Automation",
+      "description": "Library management has been automated."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "AI Applications",
+      "description": "AI Integration in Library Management."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "DDC Finder",
+      "url": "https://github.com/Indrasetyapermana/ddcfinder",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Library Automation",
+      "summary": "simplifies the classification of library collections based on the DDC.",
+      "heroLabel": "DDC-Finder"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
+    "PHP",
     "PostgreSQL",
-    "Playwright"
+    "Python",
+    "TypeScript"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "Indrasetyapermana",
+      "url": "https://github.com/Indrasetyapermana",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +64,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Ordinary Person"
 }
